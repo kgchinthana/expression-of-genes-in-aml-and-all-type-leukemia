@@ -23,7 +23,7 @@ The detailed report can be found [here (Doc)](https://docs.google.com/document/d
 ## 🔗 Links
 
 - 📌 **GitHub Repository**: [expression-of-genes-in-aml-and-all-type-leukemia](https://github.com/kgchinthana/expression-of-genes-in-aml-and-all-type-leukemia.git)
-- 📘 **Kaggle Notebook**: *Available inside the GitHub repo under the "notebooks/" folder or linked within the report.*
+- 📘 **Kaggle Notebook**: *Available inside the GitHub repo*
 
 ## 🧬 Methodology Overview
 
